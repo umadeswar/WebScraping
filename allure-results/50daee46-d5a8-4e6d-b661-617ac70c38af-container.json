@@ -1,0 +1,1 @@
+{"uuid":"50daee46-d5a8-4e6d-b661-617ac70c38af","name":"ScreenShotTest.teardown","children":["a453cc85-fc12-4c19-a36f-3f1558c0d6eb"],"description":"","befores":[],"afters":[{"name":"teardown","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1646454526789,"stop":1646454526789}],"start":1646454526789,"stop":1646454526789}
